@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://protomoldremoval.xyz/sitemap_index.xml
